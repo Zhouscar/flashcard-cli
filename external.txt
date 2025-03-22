@@ -1,0 +1,508 @@
+[MATH 1007]   rational function     a function of the following form   p(x) / q(x)   p, q are polynomials	
+[MATH 1007]   rational expression - finding domain - tricks     find it from the expression without cancellation (denominators)	
+[MATH 1007]   rational expression - when fractions exist in denominators/numerators - simplifying     use lowest common denominator	
+[MATH 1007]   A2 + B2     (A + B)(A - B)	
+[PSYC 1002]   intelligence - history     started measured by intelligence tests slowly moves away from tests	
+[PSYC 1002]   intelligence - definition     problem solving skills ability to adapt and learn from life experiences	
+[PSYC 1002]   intelligence - other definitions - overview     some cultures concern more about depth of processing rather than speed of processing	
+[PSYC 1002]   intelligence - defining - Confucian     doing what is right	
+[PSYC 1002]   intelligence - defining - Taoist     acknowledging the limitations of one's judgement	
+[PSYC 1002]   intelligence - defining - Yang & Sternberg      five factors  general cognitive factor interpersonal intelligence intrapersonal intelligence intellectual self assertion intellectual self effacement	
+[PSYC 1002]   intelligence - defining - Chen      three types  nonverbal reasoning ability verbal reasoning ability rote ability	
+[PSYC 1002]   intelligence - defining - Das     waking up (philosophically)  noticing recognizing understanding mental effort feelings opinions	
+[PSYC 1002]   intelligence - defining - Ruzgis & Grigorenko     mostly about create and sustain social relationships	
+[PSYC 1002]   intelligence - defining - Serpel     social responsibilities cooperativeness obedience respect	
+[PSYC 1002]   intelligence - defining - Super Harkness     emphasize responsible participation	
+[PSYC 1002]   intelligence - defining - Dasen     means to be prudent cautious particularly in social relationships	
+[PSYC 1002]   intelligence - defining - Durojaiye     importance of depth to intelligence being able to see all aspects of issue	
+[PSYC 1002]   Francis Galton - intelligence testing     proposed two general quality   energy sensitivity	
+[PSYC 1002]   intelligence test - energy     capacity for labour	
+[PSYC 1002]   intelligence test - sensitivity     how much environmental information can take in	
+[COMP 1406]   what is java? where is it used?     high-level, general programming language write once, run anywhere object-oriented widely used for web-development, mobile applications, large systems case-sensitive language	
+[COMP 1406]   what are the differences of python and java when it come to typing and its language?     [python] dynamically typed datatype can change on runtime interpreted  [java] statically typed datatype pre-defined compiled	
+[COMP 1406]   what is a java program composed of?     [class] blueprint for creating objects [main method] starting point for execution of any java application	
+[COMP 1406]   java - data types - hierarchy     primitive - boolean - char - int, long, byte, short   reference - arrays - class - interface - string	
+[COMP 1406]   java - naming conventions     [class names] PascalCase [method names] camelCase [variables] camelCase	
+[COMP 1406]   java - output - code      System.out.println  System.out.print	
+"[MATH 1007]   interval notation     [exclusive] x ∈ (#, #) [inclusive] x ∈ [#, #]"	
+[MATH 1007]   removing denominator - method     multiply the whole equation with the LCD	
+"[MATH 1007]   inequality - multi-degree - find solution - steps     [1] put everything to one side until one side is zero [2] factor fully [3] make a line and draw all ""points"" up there [4] make a table with  - left-most column as all ""regions""  - right-most column as ""y"" or ""f(x)""  - top-most row as all factors  - the content as whether it is positive or negative [5] write the final solution based on the inequality sign and the regions"	
+[MATH 1007]   inequality - multiplying by negative - effect     flips the sign	
+[COMP 1406]   java - input - code     Scanner scanner = new Scanner(System.in) scanner.nextLine()	
+[COMP 1406]   java - main method - code     public class ____ {     public static void main (String[] args) {     } }	
+[COMP 1406]   java - int & long     integer	
+[COMP 1406]   java - float & double     decimals	
+[COMP 1406]   java - if statement - code     if (____) {     ____ } else {     ____ }	
+"[COMP 1406]   `     for (int i = #; i < #; i++) {     ____ }"	
+[COMP 1406]   java - addition     +	
+[COMP 1406]   java - subtraction     -	
+[COMP 1406]   java - arthmetic calculations     [addition] + [subtraction] - [multiplication] * [division] / [modulus] %	
+[COMP 1406]   java - logical operators     [and] && [or] || [not] !	
+[COMP 1406]   types of errors in java     syntax - misspelled errors runtime - division by zero, etc logic - no errors but incorrect results	
+"[COMP 1406]   String.format()     with a format string ""%{# minimum character}.{# decimal places}{f for floating point}"" to format a number"	
+"[COMP 1406]   """".charAt()     (self: String, index: int) → char finds character at an index location"	
+"[COMP 1406]   """".concat()     (self: String, s: String) → String concatenate two strings into one"	
+"[COMP 1406]   """".equalsIgnoreCase()     (self: String, s: String) → boolean check if two strings are equivalent regardless of the case"	
+"[COMP 1406]   """".length()     (self: String) → int returns the length of the string"	
+"[COMP 1406]   """".substring()     (self: String, begin: int) → String (self: String, begin: int, end: int) → String gets the substring from begin (inclusive) and end (exclusive)"	
+"[COMP 1406]   """".replace()     (self: String, old: char, new: char) → String replaces all occurences of [old] with [new]"	
+[PSYC 1002]   intelligence testing - pitch test - discovery     people ability to hear high pitched declines with age people's ability to hear high pitches was not as sensitive as cats	
+[PSYC 1002]   Clark Wissler - using Galton tests - results     test scores do not correlate with each other nor grades thus new method is needed	
+[PSYC 1002]   intelligence thought - elements     [direction] knowing what to be done how to do it [adaption] selection and monitoring strategy [control] ability to criticize one's own thoughts and actions	
+[PSYC 1002]   Alfred Binet - age-appropriate testing - ages     [infant] ability to coordinate movement [age 2] placing shapes in the right hole [age 8] defining verbal absurdities and difference between two objects [age 14] solve math problems	
+[PSYC 1002]   Intelligent Quotient (IQ)     chronological age (CA) mental age (MA)   IQ = (MA/CA) * 1000   IQ of 100 means its average	
+[PSYC 1002]   good test - criteria     validity reliability standardization	
+[PSYC 1002]   good test - reliability     consistent, reproducible performance	
+[PSYC 1002]   good test - test retest reliability     same performance of the same person in multiple occasion	
+[PSYC 1002]   good test - alternate forms reliability     alternate performance in alternate occasion	
+[PSYC 1002]   good test - validity     measures what's intended to measure	
+[PSYC 1002]   good test - content validity     ability of test to measure broad range of content	
+[PSYC 1002]   good testing - criterion related validity     ability of test to predict performance when assessed by other measures of the attribute	
+[PSYC 1002]   good test - construct validity     broadest form validity whether it measures its theoretical construct	
+[PSYC 1002]   good test - standardization     develop uniform procedures for scoring test norms and performance standards	
+[PSYC 1002]   good test - standardization of procedures     test environment time directions time limits	
+[PSYC 1002]   good test - standardization of test performance     TODO	
+"[PSYC 1002]   testing - bias     cultural differences in definition of ""intelligence"""	
+[PSYC 1002]   testing - bias - history     proposed that socio economic, not race of ethnicity for the majority of these difference	
+[PSYC 1002]   Prifitera, Weiss, Saklofske     bias in test sampled all races of all variables found differences between 3 groups of IQ	
+[PSYC 1002]   Prifitera, Weiss, Saklofske - result     social-economic status play the most role on intelligence	
+[PSYC 1002]   Frances Rauscher - finding     The Mozart Effect	
+[PSYC 1002]   Frances Rauscher - results     IQ of 3 conditions   [silence] 110 [relaxation] 111 [Mozart] 119   the effect is temporary	
+[PSYC 1002]   music & performance - conclusions     Mozart effect not specific to composer and music Music-enhanced cognitive performance is a byproduct of arousal and mood	
+[COMP 1501]   game - definition - Schell     play is manipulation that indulges curiosity	
+[COMP 1501]   game designers - types     experience (focus on feel) systems (focus on balance, progression) narrative (focusing on story) level (focusing on arcs) content (focusing on nouns)	
+"[COMP 1501]   game designers - tips     don't get distracted by production ""fun work"" != best gameplay overtime, you'll naturally distance from the player and get caught up in your work playtest to ground yourself"	
+[COMP 1501]   game designer - shoulds     know questions to ask about the game be able to prioritize those questions find answers to those questions evaluate how effective those answers are communicate the design decisions to the rest of the team	
+[COMP 1501]   games literacy     knowing the building blocks of games and how when put together they enable experiences	
+[COMP 1501]   design experience - how to     one rule at a time one question, one answer at a time	
+[PSYC 1002]   psychological test     standardized measure of a person's behavior	
+[PSYC 1002]   intelligence test     measure general mental ability	
+[PSYC 1002]   aptitude test - purpose     assess specific types of mental abilities	
+[PSYC 1002]   achievement test - purpose     assess a person's mastery and knowledge	
+[PSYC 1002]   personality test - purpose     measure various aspect of personality including motives, interests, values, and attitudes	
+[PSYC 1002]   test norms     provide information about where a score on a psychological test ranks in relation to other scores on that test	
+[PSYC 1002]   percentile score     indicates the percentage of people who score at or below the score one has obtained	
+[COMP 1501]   problem solving - lens     what problems does my game as the play to solve  are there hidden problem to solve?  how can it generate new problems to solve	
+[COMP 1501]   MDA - stand for     mechanics, dynamics, aesthetics  a lens to look at your game through to see the game as three distinct components	
+"[COMP 1501]   MDA - presented as     [rules/mechanics] defined by developers [system/dynamics] put together from rules [""fun""/aesthetics] emotions evoked by the player"	
+[COMP 1501]   MDA - mechanics     data algorithms if statements answered questions	
+[COMP 1501]   MDA - dynamics     behaviour over time how do mechanics interact with each other? what kind of experience from the rules?	
+[COMP 1501]   MDA - aesthetics     emotional response of the player why they play the game what motivates them to play	
+[PSYC 1002]   intelligence - defining - list     Confucian Ruzgis & Grigorenko Chen Serpel Dasen Super Harkness Taoist Durojaiye Yang & Sternberg Das	
+[COMP 1501]   games - characteristics     [1] entered willfully [2] have goals [3] have conflict [4] have rules [5] can be won and lost [6] are interactive [7] have challenge [8] create their own internal value [9] engage players [10] are closed, formal systems	
+[COMP 1501]   games - common elements     [players] to interact with [goals] to accomplish [procedures] to provide instruction [rules] to have rules [resources] to provide value [obstacles] to provide conflict [outcome] a goal, conclusion	
+[COMP 1501]   element tetrad - elements     [mechanic] rules of the game [story] sequence of events [aesthetics] how it looks sounds, feels [technology] constraints, physical experience	
+[COMP 1501]   design through iteration - steps     [1] set the experience goal [2] prototype and play early [3] iterate, find biggest flaw	
+[COMP 1501]   games as loops - scientific method     [1] observation [2] research topic [3] hypothesis [4] test with experiment [5] analyze data [6] report conclusions	
+[COMP 1501]   game loop - elements     [mental model] player's knowledge, expectations, goals, motivations [take action] action to be taken and how [rules] game reacts, data changes [feedback] how world changed, whether player did good or bad  repeat, take the feedback to formulate new goals	
+[COMP 1501]   loops - types     [short loop] second by second interactions [medium loop] learning puzzles, clearing a room [long loop] clearing levels	
+[COMP 1501]   core loop     the loop that the player is constantly doing and what they remember most about the game	
+[COMP 1501]   arcs     loops that doesn't loop like movies	
+[COMP 1501]   BOI (Binding of Isaac)     Go into a room Kill enemies Loot corpses Go into other rooms Find unique items and stores Get more powerful Beat a boss Repeat	
+[COMP 1501]   playtesting     necessary but uncomfortable meant to challenge your assumptions	
+[COMP 1501]   playtesting - great tester - conditions     [1] in the game's target demographic [2] articulate their feelings while playing [3] provide honest, unbiased feedback	
+[COMP 1501]   tissue testing     random folks, play once and never again provides least bias	
+[COMP 1501]   testing - tips     test early, test often	
+[COMP 1501]   playtesting - conduct session - steps     introduction and warm up play session discussion	
+[COMP 1501]   playtesting - conduct session - warm up     ask about player's background to games explain the game's in active development getting feedback	
+[COMP 1501]   playtesting - conduct session - play session     let them make mistakes, get lost help them out if needed answer questions if they are stuck pay attention and take notes on everything	
+[COMP 1501]   playtesting - conduct session - discussion     prep some questions about general stuff or the prototype consider getting contact info to pass along the game later	
+[COMP 1501]   playtesting - discussion question - Schell     [1] most frustrating moment? [2] favorite moment? [3] things couldn't be done but want to? [4] things to change, add, remove? [5] what they are doing? [6] how would they describe the game to friends and family?	
+[COMP 1501]   playtesting - discussion question - Fullerton     thoughts ability to learn to play objective of game how to describe the game useful information before starting dislikes confusing things	
+[COMP 1501]   playtesting - tips     [1] avoid leading the player [2] don't explain [3] notice what you don't want to see [4] take the blame [5] answer questions with questions [6] playtest before you are even ready	
+[COMP 1501]   playtesting - philosophy     not for them to tell you they love it but for you to understand your game	
+"[COMP 1501]   playtesting - impostor syndrome     feeling of not good enough to show the work feel like a fraud may not seek help, fear of ""being discovered"""	
+[COMP 1501]   Dr. Valerie Young - five types     [perfectionist] one flaw can kill [superhero] fitting into all roles [expert] must know everything [natural genius] master everything in first try [soloist] do everything on your own	
+[COMP 1501]   game flow     refers to the order of interactions for a game takes the form of sketches of the user interface from one input to the next	
+[COMP 1501]   flow state     state of productivity involved in research of boredom and anxiety ignore other concerns and lose track of time, engage purely for the sak of engaging	
+[COMP 1501]   flow state - concerns - factors     level of difficulty skill of player	
+[COMP 1501]   flow state - achieving flow - ideal     player experience high and lowes to give them breaks and tests of their skills	
+[COMP 1501]   fiero     the feeling of achievement over adversity	
+[COMP 1501]   game - meaningful choice     multiple available course of action permitted to take fewer actions than the total number of options	
+[COMP 1501]   game - choice - implicit & explicit     [explicit] presented with options [implicit] player needs to discover them	
+[COMP 1501]   game - choice - head & hands     [head] puzzle-solving [hand] skillful, action-oriented	
+[COMP 1501]   game - false choices     choices that leads to the same outcome when player thinks it leads to different	
+[COMP 1501]   game designer - introducing choice - trap     it not always an improvement too many choices - choice paralysis too little choices - frustration sometime one choice is more superior than another	
+[COMP 1501]   dominant strategy     a strategy that would result in optimal outcomes	
+[COMP 1501]   deterministic system     the present can completely determine the future	
+[COMP 1501]   stochastic system     the present cannot determine the future	
+[PSYC 1002]   Spearman - two factor theory (g Factor)     involved in any mental task/activity  [general factor] common to all tasks require intelligence [specific factor] unique to different type of task	
+[PSYC 1002]   Cattell - crystallized abilities     cognitive functions related to achievement influenced by formal/informal education	
+[PSYC 1002]   Cattell - fluid abilities     the capacity required for problem solving adaptive learning capabities involving mental operations and processes	
+"[PSYC 1002]   Sternberg - 3 facets of intelligence     [analytical] abstract reasoning  [creative] insightful, automatic  [practical] ""street smarts"", ""practical know-how"""	
+[PSYC 1002]   Sternberg - intelligence - statement     creatively intelligent students do not conform to many teachers' expectations  conventional schools favor students with high analytic ability  practically intelligent students relate well to the demands of school	
+[PSYC 1002]   Sternberg - Triarchic Theory of Intelligence     3 ideas about the nature of intelligence  contextual experimental componential	
+[PSYC 1002]   Sternberg - Triarchic Theory of Intelligence - contextual     the intelligence defined by the culture is specific to values of that culture	
+[PSYC 1002]   Sternberg - Triarchic Theory of Intelligence - experimental     ability to deal with new situations also ability to handle familiar tasks with little effort	
+[PSYC 1002]   Sternberg - Triarchic Theory of Intelligence - componential - elements     [meta-components] process that monitor its own process [knowledge-acquisition components] taking new information and associating it with existing information [performance components] process of applying knowledge to real world problems	
+[PSYC 1002]   Salovey & Sluyter - emotional intelligence     ability to perceive accurately, appraise, and express emotion access/generate feelings when they facilitate thought understand emotion and emotional knowledge reflect emotions in ways to promote emotional growth	
+[PSYC 1002]   Yip, J.A. & Martin, R.A. - findings     people with better emotion regulation experience better cheerful moods, vice versa people with difficulties with accurate emotion perception may tends to use humour in inapproprate ways to hide their true feelings	
+[COMP 1406]   java - arrays - philosophy     why declare so many variables when you can put them in an array  cannot have more than one datatype like python	
+[COMP 1406]   heap     stores objects and classes using new keyword increases size of heap	
+[COMP 1406]   stack     stores method calls and local variables deallocated when method finishes	
+[COMP 1406]   static area     contains class metadata and static fields	
+[COMP 1406]   java - garbage collection     java automatically manages memory through garbage collection objects no longer referenced are eligible for garbage collection reduces memory leaks and optimizes performance	
+[COMP 1406]   primitive data types -     [byte] 1 [short] 2 [int] 4 [long] 8 [float] 4 [double] 8 [char] 2 [boolean] 1	
+[COMP 1406]   primitive data types - range     [byte] [ -27 , 27 - 1 ] [short] [ -215 , 215 - 1 ] [int] [ -231 , 231 - 1 ] [long] [ -263 , 263 - 1 ] [float] [ -1038 , 1038 ] [double] [ -10308 , 10308 ] [char] any UNICODE ∪ ASCII character [boolean] true ∪ false	
+[COMP 1406]   java - constructors     called when an object is created used to initialize the object's state default constructor is provided if none is defined	
+[COMP 1406]   java - methods     different methods have different functions or behavior consists of: name, return type, arguments	
+[COMP 1406]   java - default values     [int] 0 [boolean] false [Object] null	
+[COMP 1406]   null pointer exception     accessing attributes/functions of a null reference	
+[COMP 1406]   method overloading     the ability to have multiple methods of the same name if is has either different parameter datatype/amount	
+"[COMP 1406]   java - ""static"" keyword     indicates that method or variable belongs to the class not a specific object created from the class access the method/variable by directly pointing to the class"	
+[PSYC 1002]   content validity     degree to which the content of a test is representative of the domain it's supposed to cover	
+[PSYC 1002]   criterion-related validity     estimated by correlating participants scores on a test with their scores in an independent criterion of the trait assessed by the test	
+[PSYC 1002]   construct validity     the extent to which there is evidence that a test measures a particular hypothetical construct	
+[PSYC 1002]   child's mental age - indication     indicated that they displayed the mental ability typical of a child of that chronological age	
+[PSYC 1002]   factor analysis - correlations & other varibles - trait     analyzed to identify closely related clusters of variable	
+[PSYC 1002]   Gardner - 8 intelligences     logical linguistic musical spatial kinestetic interpersonal intrapersonal naturalist	
+[PSYC 1002]   normal distribution     a symmetric, bell-shaped curve that represents the pattern in which many characteristics are dispersed in the population	
+[PSYC 1002]   deviation IQ scores     locate participants precisely within the normal distribution using the standard deviation as the unit of measurement	
+[PSYC 1002]   intelligence test - reliability - anxiety     anxiety can interfere with the ability to perform well in an intelligence test therefore affecting the reliability of the test	
+[PSYC 1002]   layperson's conceptions of intelligence     verbal intelligence good with words and literacy  practical intelligence good with decision making  social intelligence good with people and communication	
+[PSYC 1002]   intellectual disability     refers to general mental ability accompanied by deficiencies in adaptive skills originating before 18	
+[PSYC 1002]   intellectual disability - levels     [mild] range of 55-70 some graduate high-school  [moderate] 40-55 limited speech, toilet habits  [severe] 25-40 little to no speech	
+[PSYC 1002]   Renzulli - 3 ring coception of eminent giftedness     high intelligence high motivation high creativity	
+[PSYC 1002]   heritability ratio     an estimate of the proportion of trait variability in a population that is determined by variations in genetic inheritance	
+[PSYC 1002]   reaction range     to refer to genetically determined limits on IQ	
+[PSYC 1002]   motive     desire that directs behavior towards a goal	
+[PSYC 1002]   drive     an internal state that arouses and directs behaviors towards a goal	
+[PSYC 1002]   drive - instinct     an automatic behavior	
+[PSYC 1002]   drive - homeostatis     when the body is in balance	
+[PSYC 1002]   drive - need     a state of tension within the person (unbalance)	
+[PSYC 1002]   drive - drive     motivation from the need	
+[PSYC 1002]   what drives people     [1] deficit [2] need [3] drive [4.1] behaviours intended to satisfy the need [4.2] thougths and fantasies	
+"[PSYC 1002]   Henry Murray - theory of needs     we have needs some are stronger than others refers to a readiness to respond in a certian way under certain cirumstances organize perception guiding us to ""see"" what we want to see"	
+"[PSYC 1002]   Henry Murray - ""satisfying""     process of reducing the tension"	
+[PSYC 1002]   Abraham Maslow - hierrarchy of needs     [self-actualization] [esteem] [belongingness] [safety] [physiological]	
+[PSYC 1002]   Abraham Maslow - hierarchy of needs - philosophy     lower needs must be satisfied before proceeding to higher needs lower needs emerged earlier in life	
+"[PSYC 1002]   Abraham Maslow - hierarchy of needs - highest need     to ""self-actualize' to develop to full potential"	
+[PSYC 1002]   Abraham Maslow - hierarchy of needs - self-actualizing - traits     increased acceptance of self, others increased spontaneity improved interpersonal relationships increased creativity more democratic character	
+[PSYC 1002]   Henry Murray - big 3 motives (needs)     need for achievement need for power need for intimacy	
+[PSYC 1002]   big 3 motives - need for achievement     desire to be better and more successful obtain satisfaction from accomplishing the task	
+"[PSYC 1002]   big 3 motive - need for power     preference of having impact on other people [e.g.] being elected to to student office university taking larger risks in gambling situations behaving assertivey and actively in small group settings acquiring more ""toys"""	
+[PSYC 1002]   big 3 motives - need for intimacy     preference for warm, close, and communicative interaction with others people high in need for intimacy - seeks out more meaningful human contact - more smile, laugh and eye contact - start up conversations more frequently - more pleasant around other people	
+[PSYC 1002]   incentive     the feelings of being pulled toward some external goal can be positive or negative	
+[PSYC 1002]   incentive - value     determines its motivational strength	
+[PSYC 1002]   drive vs incentive     drive is a cause of behavior incentive is a consequence of behavior	
+[PSYC 1002]   incentive delay - effects     delay of the current behavior and future incentive diminishes the value of the incentive	
+[PSYC 1002]   delay (temporal) discounting     the value that future incentive is measure by	
+[PSYC 1002]   future oriented - meaning     these people are better able to imagine the future possibilities and engage in less delay discounting	
+"[PSYC 1002]   present oriented - meaning     these people are more focused on the ""here and now"" engage in more ""delay discounting"""	
+[PSYC 1002]   Wolters - achievement goal theory     proposes that students motivaton and achievement-related behaviours can be understood by consider the reasons or purposes they adopt while engaged in academic work	
+[PSYC 1002]   Wolters - goal orientation     mastery-approach goal orientation mastery-avoidance goal orientation performance-approach goal orientation performance-avoidance goal orientation	
+[PSYC 1002]   Wolters - mastery-approach goal orientation     learning as much as possible overcoming challenge increasing competence	
+[PSYC 1002]   Wolters - mastery-avoidance goal orientation     work to avoid a lack of mastery or a failure to learn as much as possible	
+[PSYC 1002]   Wolters - performance-approach goal orientation     want to demonstrate their ability relative to others or want to prove their self-worth publicly	
+[PSYC 1002]   Wolters - performance-avoidance goal orientation     want to avoid looking incompetent lacking in ability less able than peers	
+[PSYC 1002]   Wolters - findings     positive correlation between grades and mastery orientation and self efficacy students who expressed a stronger focus on learning and improving (mastery) were moer likely to report that they procrastinated less, and were more likely to exhibit adaptive forms of motivational engagement performance avoidance was related to a pattern of disengagement from challenging activities performance approach was related to classroom grades	
+[PSYC 1002]   eating disorders - philosophy     person has to be very motivated by something to suppress the motivation of hunger that motivation becomes harmful	
+[PSYC 1002]   anorexia nervosa - 3 features     persistent energy intake restriction intense fear of gaining weight a disturbance in self-perceived weight or shape	
+[PSYC 1002]   anorexia nervosa - BMI     maintained below minimally normal level for age, sex, developmental trajectory and physical health	
+[PSYC 1002]   anorexia nervosa     fear gaining weight or becoming fat (not alleviated by weight loss)	
+"[PSYC 1002]   anorexia nervosa - significance of body     are distorted may perceive entire body to be overweight may be concerned that certain parts of the body are ""too fat"""	
+[PSYC 1002]   anorexia nervosa - self esteem     highly dependent upon body shape and weight	
+[PSYC 1002]   anorexia nervosa - weigth loss procedure     accomplished through reduction in total food intake excluding high calorie foods purging increased exercise	
+[PSYC 1002]   anorexia nervosa - subtypes     [restricting type] weight loss through dieting, excessive exercise [binge-eating/purging types] when individual has regularly engaged in binge eating or purging	
+[PSYC 1002]   anorexia nervosa - prevalence     [females] 0.5% [males] 0.05%	
+[PSYC 1002]   bulimia nervosa - 3 features     recurrent episodes of binge eating recurrent inappropriate behaviours to prevent weight gain self evaluation is influenced by weight	
+[PSYC 1002]   binge eating     discrete period of time an amount of food that is definitely large than normal with rapid cosumption accompanied by a sense of a lack of control	
+[PSYC 1002]   bulimia nervosa - purging behaviors     may includes induces vomiting laxatives diuretics enemas fasting excessive exercise	
+[PSYC 1002]   bulimia nervosa - subtypes     [purging type] the person has regularly engaged in self-induced vomiting [non-purging type] use other ways to lose weight such as fasting or excessive exercise	
+[PSYC 1002]   bulimia nervosa vs anorexia bulimia     bulimia has regular menstral cycles and normal weight anorexia has abnormal weight	
+[PSYC 1002]   eating disorders - etiology     individuals with eating disorders have less support and empathy from parents women with bulimia nervosa were more likely to be critical of weight and eating nervosa runs in families	
+[PSYC 1002]   emotion     a feeling that can involve - phosiological arousal - conscious experience - behavioural expression	
+[PSYC 1002]   emotions - states vs traits     [states] depend more on the situation than the person [traits] a consistent pattern of emotional responses of a person	
+[PSYC 1002]   physiological arousal - branches     [sympathetic branch of autonomic nervous system] activates energy and hormones  [parasympathetic branch of autonomic nervous system] conserve energy	
+[PSYC 1002]   amygdala     plays a role in the memory for the emotional significance of experiences some emotions have faster responding	
+[PSYC 1002]   amygdala - neural transmittion - two routes     [direct path] sense receptors → thalamus → amygdala [indirect path] sense receptors → thalamus → sensory cortex → amygdala	
+[PSYC 1002]   common sense view of emotion     stimulus → feeling → arousal	
+[PSYC 1002]   james-lange theory     stimulus → arousal → emotion	
+[PSYC 1002]   cannon-bard theory     stimulus → aroural & emotion	
+[PSYC 1002]   Schacter & Singer Two-factor Theory     stimulus → cogitive label & arousal → emotion	
+[PSYC 1002]   Nisbett & Schacther → statement     further proof that misattribution of physiological arousal can influence emotion	
+[PSYC 1002]   Nisbett & Schachter → findings     participants who percieve their reaction as drug-induced (by a placebo pill) were able to tolerate more electric shocks	
+[PSYC 1002]   Strack, Martin & Stepper - facial feedback hypothesis     facial expressions can reflect emotions as well as influence emotions	
+"[PSYC 1002]   Strack, Martin & Stepper - findings     using either teeth or lips or hand to hold pen shows that simulating facial expressions can influence ""funniness"""	
+[PSYC 1002]   emotional content     the kind of emotions that one experiences	
+[PSYC 1002]   emotional style     aka affect intensity the way the emotion is expressed	
+"[PSYC 1002]   affect intensity - definition     stable individual differences in the strength with which individual experience their emotions"""	
+[PSYC 1002]   emotional style - positive intensity     tendency to feel positive emotions	
+[PSYC 1002]   emotion style - negative intensity     tendency to experience negative emotions	
+[PSYC 1002]   Giacobbi, P. R., Tuccitto, D. E., & Frye, N - findings     as exams approach → increased threat appraisals threat appraisals → more negative effect challenge appraisals → more positive effect exercise → more positive appraisals	
+[PSYC 1002]   Giacobbi, P. R., Tuccitto, D. E., & Frye, N → statement     exercise can be an effective coping strategy for dealing with stress but not be effective when stress levels are highly demanding	
+[PSYC 1002]   Robert Sternberg - triangular theory of love     [intimacy] feelings of bond in relationships [passion] drive that lead to romance, physical attraction, sexual consummation [commitment] short term, a decision to love the other, long term, the commitment to maintain that love	
+[PSYC 1002]   love - combination of types     [intimacy] liking [intimacy + commitment] companionate love [commitment] empty love [passion + commitment] fatuous love [passion] infatuation [passion + intimacy] romantic love [intimacy + passion + commitment] consummate love	
+[PSYC 1002]   attraction     anything that draws two or more people together and possibly form a lasting relationship	
+[PSYC 1002]   need for affiliation     the desire to establish and maintain many rewarding interpersonal relationships	
+[PSYC 1002]   need to belong     the desire to form and maintain close, lasting relatinships with others	
+[PSYC 1002]   need to belong - infants     human infants are apparently born with the motivation and ability to seek contact with their interpersonal world	
+[PSYC 1002]   need to belong - social contacts     negative contacts do not satisfy the need to belong positive and neutral contacts satisfy need to belong	
+[PSYC 1002]   need to belong - ideal relationships     4-6 close relationship social life at least one romantic partner within those those who have less seem to be on the lookout more most university students prefer a few close friends than lots of casual friends	
+[PSYC 1002]   the propinquity effect     the finding that the more we see and interact with people, the more likely they become our friends and lovers relies on physical distance (how far they live) and functional distance (how convenient to visit)	
+[PSYC 1002]   mere exposure effect     the finding that more exposure to the stimuli the more we like it study shows that mere exposure relates to higher attraction	
+[PSYC 1002]   attraction - online interaction     people are more comfortable being open on the internet participants also report more liking for an internet partner break ups hurt just as much	
+[PSYC 1002]   attraction - similarity     attraction to people alike	
+[PSYC 1002]   attraction - complementary     attraction to opposites	
+[PSYC 1002]   attitude-similarity effect     the idea that people find others moer attractive and likable the more similar they are in their attitudes, beliefs, and preferences	
+[PSYC 1002]   attraction - similarity - why so important     inclined to think people who are similar to us will like us people who are similar provide us with social validation for our characteristics	
+[PSYC 1002]   reciprocal liking     liking those who like us male participants have increased liking for females who expressed interest to them being told that two person like each other behaved in more likable ways	
+[PSYC 1002]   Murray et al - findings     examined relationships participants overestimated similaraty between themselves but the greater the perceived similarity the more they feel understood by each other	
+[PSYC 1002]   Morry - findings     liking leads to percieved similarity participants who likes others reported they are more similar to them	
+[COMP 1406]   encapsulation - implementation     use of access modifiers [public] everyone can access [private] only class members can access [protected] only class members and all members of the sub-class [none] everyone in the same folder can access	
+[COMP 1406]   getters     grant access to some instance variable via get	
+[COMP 1406]   setters     assign value instance variables using set	
+[COMP 1406]   getters & setters - why     simplifies object access for users doesn't reveal hidden details to users prevent direct modification of object	
+[COMP 1406]   abstraction     display only the essential to the user identify the characteristics of an object understand how the behavior of one object differ from another	
+[COMP 1406]   abstract methods     contains no code forces subclasses to implement method any subclass inheriting an abstract class will have to implement all the superclass abstract methods	
+[COMP 1406]   interfaces     a class can implement multiple interfaces and subclasses have to implement all interfaces interfaces can also be extended by other interfaces	
+[COMP 1406]   interface vs abstract class - definition     [abstract class] cannot be instantiated contains both abstract and concrete methods  [interface] specifies a set of methods must implement methods are abstract by default	
+[COMP 1406]   interface vs abstract class - implementation method     [abstract class] can have both implemented and abstract methods  [interface] methods are abstract by default can have default and static methods	
+[COMP 1501]   extrinsic motivation     offering a reword for performing an action makes you more likely to perform that action  penalizing the action makes it less likely to happen	
+[COMP 1501]   taxonomy of fun - types     [sensation] games as sense-pleasure [fantasy] games as make-believe [narrative] games as drama [challenge] games as obstacle course [fellowship] games as social framework [discovery] games as unchartep territory [expression] games as self-discovery [submission] games as pastime	
+[COMP 1501]   three models of motivation     who are the players what are they playing what's fun about it	
+[COMP 1501]   three models of motivation - who are the players     break players into four categories to make generalization about demographics	
+[COMP 1501]   three models of motivation - what are they playing     examine - creator vs player perspective - harmony between creator intention and player experience	
+[COMP 1501]   ways to get random numbers     [uniformly random value] rolling a die [non-uniform random value] rolling 2 dice has a higher probability of a 10 or than a 3 or 18 [increasing certainty] drawing cards from a deck without replacement	
+[COMP 1501]   randomness - two types     input randomness (aka pre-luck) output randomness (aka post-luck)	
+[COMP 1501]   output randomness     the random output after the action the resulf from an action	
+[COMP 1501]   output randomness - purpose     to abstract reality to promote unknown/surprise to stumble strategies	
+[COMP 1501]   input randomness     about asking the player the question and letting them answer the action after the result the action that the player is deciding and allowed/limited to take	
+[COMP 1501]   input randomness vs output randomness     input randomness limits actions, but doesn't affect results output randomness offers action freedom, but ulitmately determines the result	
+[COMP 1501]   ways to give resources     scarcity - if it's hard to come by, it's valuable utility - if it is useful to our goal, it's valuable	
+[COMP 1501]   utility - value through reward     reward of access - unlocked game content reward of facility - avatar enhancement reward of sustenance reward of glory reward of sensory feedback	
+"[COMP 1501]   games as economies - questions asked as player     ""how will I earn ???"" ""how will I spend the ??? I've earned"""	
+[COMP 1501]   games as economies - resources to examine     tangible resources - ammo, coins, health intangible - time attention, memory	
+[COMP 1501]   games as economies - compoments     source - adding new resources to the economy sinks - removes resources from the economy storage/transport - holding onto resources to spend later adapter - converts one resources into another	
+[COMP 1501]   machinations     is one tool used to model games purely through the lens of the economy	
+[COMP 1501]   game as economy - enemies as converters (adapters)     player using extra time and attention, they can convert enemies into loots	
+[COMP 1501]   game as economy - converter balancing     converters are too easy it reduces meaningful choice if there's no risk-reward, it can feel dominant / deterministic / boring if every resource shares source/sink/store/convert, expect the economy to feel boring	
+[COMP 1501]   feedback loop      when some resource affects how that resource is obtained in the future - or how player success affects future success	
+[COMP 1501]   positive feedback     when success will make it easier to find more success	
+[COMP 1501]   negative feedback     when success leads to less likeliness of future success	
+[COMP 1501]   positive feedback - effects     helps end dominant games quickly growth to make you feel awesome (like roblox simulators)  however death spiral for worse players the good becomes better and the bad becomes worse	
+[COMP 1501]   negative feedback - effects     closes the gap between stronger and weaker players can lead to dramatic events and give fighting chance  however it can draw out a game make experienced player's feel weaker and enforces a specific way to play	
+[COMP 1501]   positive and negative loops mixing together     by using positive loop at near guaranteed loss and negative loop at near guaranteed victory	
+[COMP 1501]   designs related to time     can be continuous or discrete round systems	
+"[COMP 1501]   designs by nouns/objects     can be static or dynamic the ""things"" we've been referring to our state machines"	
+"[COMP 1501]   verbs (Schell's ""Basic Action"")     the basic action the player can take such as move forward jump opponent move backward"	
+"[COMP 1501]   actions (Schell's ""Strategic Action"")     the actions the player can take in the big picture strategies like ganking, kiting"	
+"[COMP 1501]   verb-action ratio     the ratio of how much ""verbs"" to ""actions"" (defined by Schell)"	
+[COMP 1501]   games as abstracting experiences     low abstract games such as moving something by physically moving it as it is high abstract games uses actions as a representation of something happening	
+[COMP 1501]   player promises     a few promises made from the designer to the player not just what the game has but what the game is.	
+[COMP 1501]   a good player promise - shoulds     should spark the players imagination promises holds the player accountable provides team a vision guides us in decision making	
+[COMP 1501]   a good player promise - traits     are clear, understandable concrete guides us in generative	
+[COMP 1501]   pillars     short phrases that the game is build from such as subnautica: intoxicating creation, thrill of the unknown, cascading hysteria	
+[COMP 1501]   pillars vs values     values are the behavior of the game and pillars are themes in the form of short phrases	
+[COMP 1501]   promises and loop     each loop should consider what promise it brings	
+[COMP 1501]   themes through contexts     giving the game with a certain theme makes the game more intuitive for the game to be played sometimes the player doesn't even need a tutorial to play the game as intended.	
+[COMP 1501]   affordances     affordances signals what we can do with the objects in game such as a spike warns us not to get close a red cross is a healing item	
+[COMP 1501]   affordances types     intuitive affordances - asks for an interaction symbolic affordances - affordances through culture	
+[COMP 1501]   different approaces in game     playcentrac, MDA approach mechanics, toy approach story, narrative approach experiential, experimental approach	
+[COMP 1501]   games engines at it's core     built the tools to draw pixels to the screen to efficiently detect when objects collide light up scenes handle online multiplayer (sometimes) handle input across different computers	
+[COMP 1501]   Godot's characteristics     strong 2D, and weaker but improving 3D intended for small teams with generalized skills object-oriented desing with composition	
+[COMP 1501]   frameworks pros and cons     pros suport experimental games lots of control little influence on the desing very powerful for a CS student  cons big learning curve tough to do anything complex long time to get your game engine built	
+"[COMP 1501]   generic engines pros and cons     pros easy to get started with able to make complex games heavily supported, easy to release to people  cons can influence your desing usually have license fees ""generic"" implementations may not work for your game"	
+[COMP 1501]   the game loop (not the design loop)     ofter run on a pretty specific loop 1. retrieve each input 2. update the game data 3. render the world	
+[COMP 1501]   delta     tracking the time between frames with the delta time to have a fixed rate of change for things	
+[COMP 1501]   collisions by mathematical terms     when some set of points (of an object) is contained by another set of points (of another object)	
+[COMP 1501]   godot introduction philosophy     a games is a tree each thing in the tree is Node Nodes are grouped together in Scenes Nodes communicate with Signals	
+[COMP 1501]   godot - scenes     the game consists of reusable scenes as a folder structure containing nodes	
+[COMP 1501]   scene representation     each scene represent self-contained nouns in the game (characters, weapons, menus, a house, a level, a room, a health bar) within each scene are nodes that composes them and you can attach a script to provide behaviour	
+[COMP 1501]   character as a example of planning scenes     a character sprite (sprite 2d) collisions with the floor and enemies (kinematicbody2d) sound effects for jumping and landing (two sound nodes) behaviour for button inputs (script)	
+[COMP 1501]   nodes in godot     they are just basic building blocks of scenes they represent behaviours or composition  sort of like instances in roblox but way more powerful	
+[COMP 1501]   nodes - properties     name editable properties update function can be a child of another node can be extended with scripts	
+"[COMP 1501]   scenes as nodes     scenes also behaves like nodes it can also be ""instanced"" just like any other node."	
+[COMP 1501]   nodes and behavior     nodes can have scripts attached to it which object-oriented the behavior is not limited in being anything but rather what fits the suitation in other words, it's omni-functional	
+[COMP 1501]   collision objects     collision objects detect when other collision objects are colliding them because fundamentally it's just a set of points overlapping with another it will need a collision shape to define the boundaries of the collision	
+[COMP 1501]   four kinds of collison objects     Area2D (detects overlaps and emits signals) StaticBody2D (participates in physics, unmoving) RigidBody2D (simulates physics, indirect control) CharacterBody2D (code-controlled collisions)	
+[COMP 1501]   linear algebra     calculate the distance between two points normalize and multiply a vector and the applications formula to calculate dot + cross product and godot functions applications of the dot + cross product	
+[COMP 1501]   vector and vector spaces     often described as a point in space a direction and magnitude a list of numbers a useful math construct	
+[COMP 1501]   vectors and it's components     we can breat a vector, a, into its x y components to create a right angled triangle	
+[COMP 1501]   vector representation in games     vectors are better represented with component representation for each axis instead of a length and an angle	
+[COMP 1501]   kinematics in godot     it is a subfields of classical physics more of a mathematical concept than a physics one it focuses on movement without caring about the forces involved  which is why in godot, characterbodies  do not take other forces into account, they're meant for precise control	
+[PSYC 1002]   accommodation     accomodation involves changing existing mental structures to explain new experiences	
+[PSYC 1002]   attachment     refers to close, emotional bonds of affection that develop between infants and their caregivers	
+[PSYC 1002]   centration     is the tendency to focus on just one feature of a problem neglecting other important aspects	
+[PSYC 1002]   cognitive development     refers to transitions in youngsters' patterns of thinking, including reasoning remembering, and problem solving	
+[PSYC 1002]   cohort effect     occur when differences between age groups are due to the groups growing up in different time periods	
+[PSYC 1002]   conservation     is Piaget's term for the awareness that physical quantities remain constant in spite of changes in their shape or appearance	
+[PSYC 1002]   cross-sectional design     investigators compare groups of participants of differing age at a single point in time	
+[PSYC 1002]   dementia     is an abnormal condition marked by multiple cognitive deficits that include memory impairment	
+[PSYC 1002]   development     is the sequence of age-related changes that occur as a person progresses from conception to death	
+[PSYC 1002]   developmental norms     indicate the median age at which individuals display various behaviours and abilities	
+[PSYC 1002]   dishabituation     occurs if a new stimulus elicits an increase in the strength of a habituated response	
+[PSYC 1002]   egocentrism     in thinking is characterized by a limited ability to share another person's viewpoint	
+[PSYC 1002]   embryonic stage     is the second stage of prenatal development lasting from two weeks until the end of the second month	
+[PSYC 1002]   fetal alcohol spectrum disorder (FASD)     is a collection of congenital (inborn) problems associated with excessive alcohol use during pregnancy	
+[PSYC 1002]   fetal stage     is the third stage of prenatal development, lasting from two months through birth	
+[PSYC 1002]   gender     usually refers to culturally constructed distinctions between femninity and masculinity	
+[PSYC 1002]   gender differences     are actual disparities between the sexes in typical behaviour or average ability	
+[PSYC 1002]   gender roles     are expectations about what is appropriate behaviours for each sex	
+[PSYC 1002]   germinal stage     is the first phase of prenatal development, encompassing the first two weeks after conception	
+[PSYC 1002]   habituation     is a gradual reduction in the strength of a response when a stimulus event is presented repeatedly	
+[PSYC 1002]   hypothetico-deductive reasoning     reasoning in which they can think abstractly and test out their hypothesis	
+[PSYC 1002]   irreversibility     is the inability to envision reversing an action	
+[PSYC 1002]   longitudinal design     investigators observe one group of participants repeatedly over a period of time	
+[PSYC 1002]   maturation     is development that reflects the gradual unfolding of one's genetic blueprint	
+[PSYC 1002]   menarche     the first occurence of menstruation	
+[PSYC 1002]   motor development     refers to the progression of muscular coordinatino required for physical activities	
+[PSYC 1002]   object permanence     develops when a child recognizes that objects continue to exist when they are no longer visible	
+[PSYC 1002]   placenta     is a structure that allows oxygen and nutrients to pass into the fetus from the mother's bloodstream, and bodily wastes to pass out to the mother	
+[PSYC 1002]   prenatal period     extends from conception to birth, usually encompassing nine months of pregnancy	
+[PSYC 1002]   primary sex characteristics     the structures necessary for reproduction	
+[PSYC 1002]   puberty     the stage during which sexual functions reach maturity, which marks the beginning of adolescence	
+[PSYC 1002]   scaffolding     occurs when the assistance provided to a child is adjusted as learning progresses	
+[PSYC 1002]   secondary sex characteristics     physical features that distinguish one sex from the other but that are not essential for reproduction	
+[PSYC 1002]   separation anxiety     emotional distress seen any many infants when they are separated from people with whom they have formed an attachment	
+[PSYC 1002]   sex     usually refers to the biologically based categories of female and male	
+[PSYC 1002]   socialization     is the acquisition of the norms and behaviours expected of people in a particular society	
+[PSYC 1002]   spermarche     the first occurence of ejaculation	
+[PSYC 1002]   stage     is a developmental period during which characteristic patterns of behaviour are exhibited and certain capacities become established	
+[PSYC 1002]   strange situation procedure     in which infants are exposed to a series of eight separation and reunion episodes to assess the quality of their attachment	
+[PSYC 1002]   temperament     refers to characteristic mood, activity level, and emotional reactivity	
+[PSYC 1002]   terotogen     are any external agents, such as drugs or viruses, that can harm an embryo or fetus	
+[PSYC 1002]   zone of proximal development (ZPD)     is the gap between what a learner can accomplish alone and what they can achieve and what they can achieve with guidance from more skilled partners	
+[PSYC 1002]   prenatal period's three phases     the germinal stage (first two weeks) the embronic stage (two week to two months) the fetal stage (two months to birth)	
+[PSYC 1002]   germinal stage's process     - zygote's creation - becomes microscopic mass of cells - migrates along mother's fallopian tube to the uterine cavity - begins to implant itself in uterine wall (only half make it through) - placenta begin's to form	
+[PSYC 1002]   embyronic stage's process     - vital organs begin to form (now called embryo) - limbs begin to form	
+[PSYC 1002]   embryonic stage's importance     the failure of this stage is the most likely the reason for miscarriages	
+[PSYC 1002]   fetal stage's process     - muscles and bones begin to form (now called a fetus) - skeletal structures harden - sex organs starts to develop - brain cells mutiply fast	
+[PSYC 1002]   survivability in premature birth     sometimes between 23 weeks and 25 weeks, the fetus reaches threshold of viability where they can prehaps survive a premature birth at the chance of 72 percent	
+[PSYC 1002]   maternal nutrition     nutrition of the fetus depending on what the mother eats the nutrition is essential to the baby to not develop any deficits	
+"[PSYC 1002]   maternal drug and alcohol use     - all ""recreational drugs"" can be harmful to the fetus - canabis is most likely to be used by pregnant Canadians, but it can results in attention deficit, impulsivity and substance abuse to the child - smoking results in more miscarriages"	
+[PSYC 1002]   FASD effects to the child     - microcephaly (a smaller head) - heart defects - irritability - hyperactivity - delayed motor development - impaired cognitive development	
+[PSYC 1002]   stress and emotion in maternal development     studies shown that prenatal stress of the mother can increase chances of stillbirths, weakened immune system and slowed motor development	
+[PSYC 1002]   maternal illness     - there are some illnesses that can be passed to the baby from women - most notably AIDs and HIV virusse that can pass the sickness to the baby - about 20 to 30 percent of HIV-positive women has passed virus onto their babies	
+[PSYC 1002]   environmental toxins in prenatal development     prenatal development has been linked to impairment in cognitive development at age five	
+[PSYC 1002]   fetal origins of adult disease     - study shown that fetal development defects can result in mental illnesses that is only shown in their adult life - prenatal malnutrition linked to vulnerability to schizophrenia - low birth weight has been linked to risk of heart disease in adulthood - some also link to depression and bipolar disorders, obesity, diabetes, some types of cancer	
+[PSYC 1002]   understanding developmental norms     - only useful when parent's don't expect their children to be exactly on pace - developmental norms are only averages so deviations are completely normal	
+[PSYC 1002]   cultural variations and their significance     - cultural encouragement of motor exploration can allow motor development to be a month earlier - discouragement about a year later	
+[PSYC 1002]   longitudinal vs cross-sectional research     longitudnal is one person in tested in multiple ages cross-sectional is multiple people of different ages tested at once	
+"[PSYC 1002]   results of temperament studies     - a child's temperament at 3 months can indicate their temperament at the age of 10 - ""difficult"" infants required more counselling than other children"	
+[PSYC 1002]   theories of attachment     - Harlow's study has shown baby monkeys prefer more mother-like figures rather than just figures that feed them milk - tested by giving frightening toys to baby monkeys	
+[PSYC 1002]   patterns of attachment     - Ainsworth used strange situation procedure to assess quality of their attachment - secure attachment would be comfortable when their parent's are here and uncomfortable when they are gone - anxious-ambivalent attachment is when they are here, the child is still uncomfortable - avoidant attachment is when they are gone, the child is still comfortable	
+[PSYC 1002]   outcomes of secure attachment     - children with more secure attachment have higher self-esteem better language development	
+[PSYC 1002]   culture and attachment     though secure attachment is the most dominant attachment style of all cultures, the cultures can still affect the occurence of insecure attachment styles	
+[PSYC 1002]   Erikson's Stage Theory     - split into eight stages - each stage is defined by a conflict between two ideas	
+[PSYC 1002]   Trust vs Mistrust by Erikson     (first stage of the development) if infants needs are met by their caregivers (such as blankets, food, warmth) the infant is less likely to develop trust issues like me	
+[PSYC 1002]   Autonomy versus Shame and Doubt by Erikson     (second stage of development) if parent's are never satisfied by the child's ability to manage himself, the child will develop shame	
+[PSYC 1002]   Initiative versus Guilt by Erikson     (third stage) overcontrolling parents can give the child feelings of guilt and self esteem may suffer	
+[PSYC 1002]   Industry versus Inferiority by Erikson     (fourth stage) kids who can perform better in places that has less caretaking results in higher sense of competence	
+"[PSYC 1002]   Evaluating Erikson's Theory     although it helps drawing the connections between each stage and understand the transition between stages, the theory provides a ""idealized"" version of development and skips all the complexities"	
+[PSYC 1002]   Jean Piaget's cognitive development stages     - sensorimotor period - preoperational period - concrete operational period - formal operational period	
+[PSYC 1002]   sensorimotor period     - children coordinating their sensory input with motor actions - by the end of the stage, child can use mental representations for objects - object permanence develops	
+[PSYC 1002]   preoperational period     - tries to master the concept of conservation of objects - the reasons includes centration, irreversibility, egocentrism - such as can't see things in reverse or from other people's perspectives	
+[PSYC 1002]   concrete operational period     - mastering decentration and reversibility - can work successfully with hiercarchical classification problems like set-related counting	
+[PSYC 1002]   formal operation period     - allows fully abstract thinking - some children develop obsession diving into hypothetical theories - more systemmatic way of thinking - and capable of hypothetico-deductive reasoning	
+[PSYC 1002]   evaluating Piaget's theory     - though it has it's contributions, it still has criticisms - Piaget underestimates young children's cognitive development - the patterns and thinking stages can overlap - development is not as uniform as Piaget think it is	
+"[PSYC 1002]   Vygotsky's sociocultural theory     - in contrast to Piaget's focus on children's exploration of the world around them, Vygotsky focuses more on how society and cuture's effect on the child - Piaget thinks children's development is universal whereas Vygotsky thinks children's develop varies depending on the culture - Vygotsky believes language development is essential rather than ""just another feature"""	
+[[Year 1][Winter Term]]   are some cognitive abilities innate?     - young children have grasp of complex concepts without even opportunies to learn about - such as how gravity works, basic math - used patterns of dishabituation to see what children can tell apart	
+[[Year 1][Winter Term]]   critical periods in development     - the term being some knowledge can only be acquired in a certain amount of time - but argued that it's only a period of optimal learning and can still be learned later	
+[[Year 1][Winter Term]]   theory of mind     - crayons in candy box; after looking inside children will insist saying that they always knew there are crayons inside - understanding false belief is believed to be a part of child develoment - children's mind continues to improve and scientists maps out certain milestones	
+[[Year 1][Winter Term]]   kohlberg's stage theory      - most influential of competing theories to explain how children develop right and wrong - preconventional level think in terms of only external consequences - conventional level think rules are necessary for maintaining social order - postconventional level starts to create their own ethics which shows some creativity	
+[PSYC 1002]   evaluating kohlberg's theory     - children actually move towards his stages - same with jean piaget's theory, some of the stages are also overlapping - only focuses on interpersonal conflicts and ignored all other aspects of moral development	
+[PSYC 1002]   moral intuitions     moral judgments involves immediate automatic emotional reactino to people's behaviour	
+[PSYC 1002]   adolescent growth spurt     physical growth to a point the clothes can't keep up	
+[PSYC 1002]   maturation timing and effects     - those who mature late into adolescence have higher subjective distress - those who mature early into adolescene have greater use of drugs and more aggression	
+[PSYC 1002]   predictions about adolescence and how correct are they     - the extend of risk-taking in adolescence has been overestimated - excessive risk-taking is most confined to a small subset of adolescents - the neural correlates of adolescent risk-taking are vastly more complicated than those outlined by the imbalance model - risk-taking in adolescene also depndes on environmental factors and is not largely a function of neural development	
+[PSYC 1002]   myelinization and synaptic pruning in adolescence     - prefrontal cortex has been found to have the most myelinization and synaptic pruning during adolescence until the age of 25 - which is why risky behaviours are increased during adolescence and decreased later on	
+[PSYC 1002]   peer influence on risk-taking     data shows that peer influence on adolescence and young adults of risk-taking is the biggest factor of increase the likelyhood of risk-taking, meanwhile no effects on adults	
+[PSYC 1002]   suicide and it's representations     people say that teens have the highest amout of suicide, but data says most suicide rate come from Indigenous people and older adults	
+[PSYC 1002]   suicide in Indigenous people     Chandler and Lalonde conducts research on suicide from Indigenous communities - suicide rate is not consistent across all communites - concludes that cultural continuity factors heavily related to suicide	
+[PSYC 1002]   identity moratorium     involves delaying commitment for a while to experiment with alternative ideologies and careers	
+[PSYC 1002]   identity diffusion     a state of rudderless apathy with no commitment to an ideology	
+[PSYC 1002]   identity foreclosure     is a premature commitment to visions, value, and roles-typically those prescribed by one's parents	
+[PSYC 1002]   identity confusion effects     studies have found that identity confusion is associated with an increased risk of substance abuse, unprotected sexual activity, anxiety, low self-worth, and eating disorders  (though could it be the other way around?)	
+[PSYC 1002]   identity statuses     Erik Erikon proposes that the presence and absence of sense of commitment and a sense of crisis can result in for identity statuses - identity diffusion - identity foreclosure - identity moratorium - identity achievement	
+[PSYC 1002]   identity achievement     involves arriving at a sense of self and direction after some consideration of alternative possibilities	
+"[PSYC 1002]   identity during adulthood     - Anett's research says that most adult don't feel like adolescent but neither do they feel like adults - becomes a new phase called ""emerging adulthood"" known for self focus and instability and identity issues"	
+[PSYC 1002]   question of stability     - scientists have done several studies with stability and durability in personality - scores on extraversion remain stable - agreeableness, open to experience, and conscientiouness increases gradually - in old age, neuroticism starts to increase, and extraversion agreeableness, and conscientiousness begin to decline	
+[PSYC 1002]   Erikson's view of adulthood     - divided adulthood into three stages - early adulthood stage, called intimacy versus isolation, the ability to create intimacy with others - in middle adulthood, called generativity versus self-absorption, the ability to have concerns for others - during late adulthood stage, integrity versus despair, the ability to stay positive despite all the worries of the past and future	
+[PSYC 1002]   conjugal status     the term used by statistics Canada when reporting the nature of a relationship between cohabiting couples	
+[PSYC 1002]   adjusting to marriage     - people that set's unrealistic expectations for the marriage tends to be less strategic when it comes to dealing with interpersonal problems - role of house husbanding has been increasing since 1960 - and some random data about satisfaction of marriage time and ages	
+[PSYC 1002]   adjusting to parenthood     - more people choosing not to have children - research shown relationship quality declines after first child is born - parents have less control over their child as they grow up - conflicts usually affects the parents more than the child in terms of stress	
+[PSYC 1002]   aging and physiological changes     - subjective age begin to defer as people reach their 30s - hearing loss starts happening - menopause starts happening - positive emotions leads to more successful aging	
+[PSYC 1002]   subjective age     how old that a person feels unrelated to their chronological age - it begins to diverge from chronological age of 30 as individuals starts to view them as younger than they actually are	
+[PSYC 1002]   menopause     the ending of menstrual periods, accompanied by a loss of fertility - typically occurs at around age 51	
+[PSYC 1002]   Alzheimer's effects     - loss of brain tissue in hippocampal region - impairment of working memory, attention, and executive function - memory retrieval is also impaired - evidence says chronic inflammation is a factor	
+[PSYC 1002]   anxiety about death     - anxiety about death declines from early to late adulthood - elderly adults fear the period right before death such as who will take care of them - study shown moments before death actually are more positive than one thinks - more positive words before death - people go through the 5 stage of grief before death	
+[PSYC 1002]   behaviourism     is a theoretical orientation based on the premise that scientific psychology should study only observable behaviour	
+[PSYC 1002]   collectivism     involves putting group goales ahead of personal goals and defining one's identity in terms of the groups one beloings to	
+[PSYC 1002]   compensation     involves efforts to overcome imagined or real inferiorities by developing one's abilities	
+[PSYC 1002]   conscious     consists of whatever one is aware of at a particular point in time	
+[PSYC 1002]   Dark Triad     refers to a specific combination to three traiits leading to negative, antisocial behavioural tendendcies: Machivellianism, psychopathy, and narcissism	
+[PSYC 1002]   defence mechanism     are largely unconscious reactions that protect a person from unpleasant emotions such as anxiety and guilt	
+[PSYC 1002]   displacement     is diverting emotional feelings from their original source to a substitute target	
+[PSYC 1002]   Dunning-Kruger effect     this refers to a cogntive bias in which individuals who possess low or no expertise or knowledge in a specific situation are unaware of those deficits	
+[PSYC 1002]   ego     is the decision-making component of personality that operates according to the reality principle	
+[PSYC 1002]   factor analysis     correlations among many variables are analyzed to identify closely related clusters of variables	
+[PSYC 1002]   fixation     is a failure to move forward from one stage to another as expected	
+[PSYC 1002]   hierarchy of needs     a systematic arrangement of needs, according to priority, in which basic needs must be met before less basic needs are aroused	
+[PSYC 1002]   hindsight bias     the tendency to mould one's interpretation of the past to fit how events actually turned out	
+[PSYC 1002]   humanism     is a theoretical orientation that emphasizes the unique qualities of humans, especially their freedom and their potential for personal growth	
+[PSYC 1002]   id     is the primitive, instinctive component of personality that operates according to the pleasure principle	
+[PSYC 1002]   identification     is bolstering self-esteem by forming an imaginary or real alliance with some person or group	
+[PSYC 1002]   incongruence     is the degree of disparity between one's self-concept and one's actual experience	
+[PSYC 1002]   individualism     involves putting personat goals ahead of group goals and defining one's identity in terms of personal attributes rather than group memberships	
+[PSYC 1002]   model     is a person whose behaviour is observed by another	
+[PSYC 1002]   narcissism     is a personality trait marked by an inflated sense of importance, a need for attention and admiration, a sense of entitlement, and a tendency to exploit others	
+[PSYC 1002]   observational learning     occurs when an organism's responding is influenced by the observation of others who are called models	
+[PSYC 1002]   Oedipal complex     children manifest erotically tinged desires for their opposite-sex parent, accompanied by feelings of hostility toward their same-sex parent	
+[PSYC 1002]   personality     refers to an individual's unique constellation of consistent behavioural traits	
+[PSYC 1002]   personality trait     is a durable disposition to behave in a particular way in a variety of situations	
+[PSYC 1002]   phenomenological approach     which assumes that one has to appreciate individuals' personal, subjective experiences to truly understand their behaviour	
+[PSYC 1002]   pleasure principle     which demands immediate gratification of it's urges	
+[PSYC 1002]   preconscious     contains material just beneath the surface of awareness that can easily be retrieved	
+[PSYC 1002]   projection     is attributing one's own thoughts, feelings or motive to another	
+[PSYC 1002]   projective tests     ask participants to respond to vague, ambiguous stimuli in ways that may reveal the participants's needs, feelings, and personality traits	
+[PSYC 1002]   psychodynamic theory     psychodynamic theory include all of the theories descended from the work of Sigmund Freud, which focus on unconscious mental forces	
+[PSYC 1002]   psychosexual urges     are developmental periods with a characteristic sexual focus that leave their mark on adult personality	
+[PSYC 1002]   rationalization     which is creating false but plausible excuses to justify unacceptable behaviour	
+[PSYC 1002]   reaction formation     is behaving in a way that's exactly the opposite of one's true feelings	
+[PSYC 1002]   reality principle     which seeks to delay gratification of the id's urges until appropriate outlets and situations can be found	
+[PSYC 1002]   reciprocal determinism     is the idea that interal mental events, external environmental events and overt behaviuor all influence one another	
+[PSYC 1002]   regression     is a reversion to immature patterns of behaviour	
+[PSYC 1002]   repression     is keeping distressing thoughts and feelings buried in the unconscious	
+[PSYC 1002]   self-actualization     which is the need to fulfill one's potential; it is the highest need in Maslow's motivational hierarchy	
+[PSYC 1002]   self-actualizing persons     are people with exceptionally healthy personalities, marked by continued personal growth	
+[PSYC 1002]   self-concept     is a collection of beliefs about one own nature, unique qualities, and typical behaviour	
+[PSYC 1002]   self-efficacy     refers to one's belief about one's ability to perform behaviours that should lead to expected outcomes	
+[PSYC 1002]   self-enhancement     involves focusing on positive feedback from others, exaggerating one's strengths, and seeing oneself as above average	
+[PSYC 1002]   self-regulation     as the self's ability to alter its actions and behaviours	
+[PSYC 1002]   self-report inventories     are personality tests that ask individuals to answer a series of questions about their characteristic behaviour	
+[PSYC 1002]   sublimation     which occurs when unconscious, unacceptable impulses are channelled into socially acceptable, perhaps even adimirable, behaviours	
+[PSYC 1002]   superego     is the moral component of personality that incorporates social standards about what represents right and wrong	
+[PSYC 1002]   unconscious     contain thoughs, memories, and desires that are well below the surface of conscious awareness but that nonetheless exert great influence on behaviour	
+[PSYC 1002]   acquired immune deficiency syndrome     a disorder in which the immune system is gradually weakened and eventually disabled by the human immunodeficiency virus	
+[PSYC 1002]   acute stressors     are threatening events that have a relatively short duration and a clear endpoint	
+[PSYC 1002]   approach-approach conflict     a choice must be made between two attractive goals	
+[PSYC 1002]   avoidance-avoidance conflict     a choice must be made between two unattractive	
+[PSYC 1002]   biophilia     restorative effects that help people function better emotionally is referred to as biophilia	
+[PSYC 1002]   biopsychosocial model     holds that physical illness is caused by a complex interaction of biological, psychological, and sociocultural factors	
+[PSYC 1002]   burnout     involves physical and emotional exhaustion, cynicism, and a lowered sense of self-efficacy that can be brought on gradually by chronic work-related stress	
+[PSYC 1002]   catastrophic thinking     involves unrealistically negative appraisals of stress that exaggerate the magnitude of one's problems	
+[PSYC 1002]   chronic stressors     are threatening events that have a relatively long duration and no readily apparent time limit	
+[PSYC 1002]   conflict     occurs when two or more incompatible motivations or behavioral impulses compete for expression	
+[PSYC 1002]   constructive coping     to refer to relatively healthful efforts that people make to deal with stressful events	
+[PSYC 1002]   coping     refers to active efforts to master, reduce, or tolerate the demands created by stress	
+[PSYC 1002]   defencs mechanisms     are largely unconscious reaction that shield individuals from the unpleasants emotions so often elicited by stress	
+[PSYC 1002]   fight-or-flight response     a physiological reaction to threat in which the autonomic nervous system mobilizes the organism for attacking (fight) or fleeing (flight) an enemy	
+[PSYC 1002]   frustration     is experienced whenever the pursuit of some goal in thwarted	
+[PSYC 1002]   hardiness     is constellation of attitudes, beliefs, and behavioural tendencies that consists of thress components: commitment, control, and challenge	
+[PSYC 1002]   health psychology     is concerned with how psychosocial factors relate to the promotion and maintenance of health and with the causation, prevention, and treatment of illness	
+[PSYC 1002]   immune response     is the body's defensive reaction to invasion by bacteria, viral agents, or other foreign substances	
+[PSYC 1002]   learned helplessness     is passive behaviour produced by exposure to unavoidable aversive events	
+[PSYC 1002]   life changes     are any substantial alterations in one's living circumstances that require readjustments	
+[PSYC 1002]   neurogenesis     the formation of new neurons	
+[PSYC 1002]   optimism     is a general tendency to expect good outcomes	
+[PSYC 1002]   post-traumatic growth     capacity to grow in positive ways in response to negative events post-traumatic growth	
+[PSYC 1002]   post-traumatic stress disorder (PTSD)     involves enduring psychological disturbance attributed to the experience of a major traumatic event	
+[PSYC 1002]   pressure     involves expectations or demands that one behave in a certain way	
+[PSYC 1002]   primary appraisal     is an initial evaluation of whether an event is (1) irrelevant to you, (2) relevant but not threatening, or (3) stressful	
+[PSYC 1002]   rational-emotive therapy     is an approach that focuses on altering clients' patterns of irrational thinking to reduce maladaptive emotions and behaviours	
+[PSYC 1002]   secondary appraisal     which is an evaluation of your coping resources and option for dealing with the stress	
+[PSYC 1002]   social support     refers to various types of aid and emotional sustenance provided by members of one's social networks	
+[PSYC 1002]   stress     as any circumstances that threaten or are perceived threaten one's well-being and that thereby tax one's coping abilities	
+[PSYC 1002]   type A personality     includes three elements: (1) a strong competitive orientation, (2) impatience and time urgency, and (3) anger and hostility	
+[PSYC 1002]   type B personality     is marked by relatively relaxed, patient, easygoing, amicable behaviour	
